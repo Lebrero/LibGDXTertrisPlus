@@ -1,1 +1,1 @@
-# LibGDXShipTertrisPlus
+# LibGDXTertrisPlus
