@@ -1,0 +1,48 @@
+
+tetrisPlus.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 590, 960
+  orig: 590, 960
+  offset: 0, 0
+  index: -1
+block_hd_blue
+  rotate: false
+  xy: 594, 734
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+block_hd_green
+  rotate: false
+  xy: 594, 619
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+block_hd_orange
+  rotate: false
+  xy: 709, 849
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+block_hd_purple
+  rotate: false
+  xy: 709, 734
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+block_hd_red
+  rotate: false
+  xy: 594, 849
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
